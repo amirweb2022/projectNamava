@@ -1,0 +1,100 @@
+[
+    {
+        "imgmovie":"/assest/image/movie-mehmonijpg.jpg",
+        "overtitle":"سریال-1400",
+        "number":"93%",
+        "title":"مهمونی",
+        "nomre":"7.8"
+    },
+    {
+        "imgmovie":"/assest/image/moviekhaton.jpg",
+        "overtitle":"سریال-1400",
+        "number":"91%",
+        "title":"خاتون",
+        "nomre":"7.8"
+    },
+    {
+        "imgmovie":"/assest/image/movikhosof.jpg",
+        "overtitle":"سریال-1400",
+        "number":"79%",
+        "title":"خسوف",
+        "nomre":"5.5"
+    },
+    {
+        "imgmovie":"/assest/image/moviehakayjpg.jpg",
+        "overtitle":"سریال-2021",
+        "number":"94%",
+        "title":"هاکای",
+        "nomre":"8.1"
+    },
+    {
+        "imgmovie":"/assest/image/lastking.jpg",
+        "overtitle":"سریال-2015",
+        "number":"92%",
+        "title":"آخرین پادشاهی",
+        "nomre":"8.4"
+    },
+    {
+        "imgmovie":"/assest/image/foropashi.jpg",
+        "overtitle":"سریال-2022",
+        "number":"72%",
+        "title":"فروپاشی کمپانی",
+        "nomre":"7.1"
+    },
+    {
+        "imgmovie":"/assest/image/jaket.jpg",
+        "overtitle":"سریال-2021",
+        "number":"79%",
+        "title":"ژاکت زرد ها",
+        "nomre":"8.0"
+    },
+    {
+        "imgmovie":"/assest/image/arshiv.jpg",
+        "overtitle":"سریال-2022",
+        "number":"89%",
+        "title":"آرشیو81",
+        "nomre":"7.6"
+    },
+    {
+        "imgmovie":"/assest/image/shovalie.jpg",
+        "overtitle":"سریال-2022",
+        "number":"97%",
+        "title":"شوالیه ماه",
+        "nomre":"7.5"
+    },
+    {
+        "imgmovie":"/assest/image/rozname.jpg",
+        "overtitle":"سریال-2022",
+        "number":"78%",
+        "title":"شوالیه ماه",
+        "nomre":"7.0"
+    },
+    {
+        "imgmovie":"/assest/image/terner.jpg",
+        "overtitle":"سریال-2021",
+        "number":"86%",
+        "title":"شوالیه ماه",
+        "nomre":"6.6"
+    },
+    {
+        "imgmovie":"/assest/image/intekhabat.jpg",
+        "overtitle":"سریال-2021",
+        "number":"75%",
+        "title":"انتخابات سرخ",
+        "nomre":"6.1"
+    },
+    {
+        "imgmovie":"/assest/image/dokhtar.jpg",
+        "overtitle":"سریال-2020",
+        "number":"90%",
+        "title":"دختر تک شاخ من",
+        "nomre":"7.9"
+    },
+    {
+        "imgmovie":"/assest/image/gorosne.jpg",
+        "overtitle":"سریال-2021",
+        "number":"86%",
+        "title":"گرسنه و پریمو",
+        "nomre":"7.5"
+    }
+]
