@@ -138,12 +138,7 @@ main {
 .box-movie:hover .overlay{
     opacity: 1;
 }
-.container-box1 {
-    width: 200vw;
-    overflow: hidden;
-    transition: all 0.8s;
-}
-.container-box2 {
+.container-box1,.container-box2,.container-box3,.container-box4 {
     width: 200vw;
     overflow: hidden;
     transition: all 0.8s;
@@ -161,4 +156,36 @@ main {
     background: linear-gradient(to right, rgba(18,18,18,1), rgba(18,18,18,0));
     outline: none;
     border: none;
+}
+.navlink {
+   font-size: 13px;
+   color:rgb(169, 169, 169);
+}
+.nav-item {
+    padding: 5px 0;
+}
+.linksher {
+    background-color: rgb(170, 170, 170);
+    color: black;
+    padding: 0 10px;
+    padding-top: 7px;
+    padding-bottom: 2px;
+    border-radius: 50%;
+    font-size: 23px;
+}
+.twitter:hover {
+    background-color: rgba(118, 159, 241, 0.911);
+    color: #fff;
+}
+.instagram:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    color: #fff;
+}
+.telgram:hover {
+    background-color: rgba(118, 159, 241, 0.911);
+    color: #fff;
+}
+.text-footer {
+    color: rgb(169, 169, 169);
+    font-size: 12px;
 }

@@ -1,38 +1,10 @@
 [
     {
-        "imgmovie":"/assest/image/movie-mehmonijpg.jpg",
-        "overtitle":"سریال-1400",
-        "number":"93%",
-        "title":"مهمونی",
-        "nomre":"7.8"
-    },
-    {
-        "imgmovie":"/assest/image/moviekhaton.jpg",
-        "overtitle":"سریال-1400",
-        "number":"91%",
-        "title":"خاتون",
-        "nomre":"7.8"
-    },
-    {
-        "imgmovie":"/assest/image/movikhosof.jpg",
-        "overtitle":"سریال-1400",
-        "number":"79%",
-        "title":"خسوف",
-        "nomre":"5.5"
-    },
-    {
-        "imgmovie":"/assest/image/moviehakayjpg.jpg",
-        "overtitle":"سریال-2021",
-        "number":"94%",
-        "title":"هاکای",
-        "nomre":"8.1"
-    },
-    {
-        "imgmovie":"/assest/image/lastking.jpg",
-        "overtitle":"سریال-2015",
-        "number":"92%",
-        "title":"آخرین پادشاهی",
-        "nomre":"8.4"
+        "imgmovie":"/assest/image/arshiv.jpg",
+        "overtitle":"سریال-2022",
+        "number":"89%",
+        "title":"آرشیو81",
+        "nomre":"7.6"
     },
     {
         "imgmovie":"/assest/image/foropashi.jpg",
@@ -49,18 +21,39 @@
         "nomre":"8.0"
     },
     {
-        "imgmovie":"/assest/image/arshiv.jpg",
+        "imgmovie":"/assest/image/mardroil.jpg",
         "overtitle":"سریال-2022",
-        "number":"89%",
-        "title":"آرشیو81",
-        "nomre":"7.6"
+        "number":"79%",
+        "title":"مردرویل",
+        "nomre":"6.9"
     },
     {
-        "imgmovie":"/assest/image/shovalie.jpg",
-        "overtitle":"سریال-2022",
-        "number":"97%",
-        "title":"شوالیه ماه",
-        "nomre":"7.5"
+        "imgmovie":"/assest/image/56UP.jpg",
+        "overtitle":"سریال-2012",
+        "number":"60%",
+        "title":"56 سال به بالا",
+        "nomre":"8.0"
+    },
+    {
+        "imgmovie":"/assest/image/49 UP.jpg",
+        "overtitle":"سریال-2005",
+        "number":"66%",
+        "title":"49 سال به بالا",
+        "nomre":"8.2"
+    },
+    {
+        "imgmovie":"/assest/image/naghashi.jpg",
+        "overtitle":"سریال-2019",
+        "number":"85%",
+        "title":"نقاشی آسان برای بچه ها",
+        "nomre":"9.0"
+    },
+    {
+        "imgmovie":"/assest/image/retsokoy.jpg",
+        "overtitle":"سریال-2018",
+        "number":"88%",
+        "title":"رتسوکوی پرخاشگر",
+        "nomre":"8.0"
     },
     {
         "imgmovie":"/assest/image/rozname.jpg",
@@ -68,6 +61,13 @@
         "number":"78%",
         "title":"روزنامه نگار",
         "nomre":"7.0"
+    },
+    {
+        "imgmovie":"/assest/image/khosh.jpg",
+        "overtitle":"سریال-2021",
+        "number":"87%",
+        "title":"خوش گذرونی با اوتیس",
+        "nomre":"8.9"
     },
     {
         "imgmovie":"/assest/image/terner.jpg",

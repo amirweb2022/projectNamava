@@ -1,0 +1,100 @@
+[
+    {
+        "imgmovie":"/assest/image/shovalie.jpg",
+        "overtitle":"سریال-2022",
+        "number":"97%",
+        "title":"شوالیه ماه",
+        "nomre":"7.5"
+    },
+    {
+        "imgmovie":"/assest/image/salname.jpg",
+        "overtitle":"سریال-2019",
+        "number":"96%",
+        "title":"سالنامه داریون",
+        "nomre":"7.5"
+    },
+    {
+        "imgmovie":"/assest/image/number.jpg",
+        "overtitle":"سریال-2021",
+        "number":"95%",
+        "title":"شمارش معکوس:ماموریت فضایی",
+        "nomre":"7.5"
+    },
+    {
+        "imgmovie":"/assest/image/49 UP.jpg",
+        "overtitle":"سریال-2005",
+        "number":"66%",
+        "title":"49 سال به بالا",
+        "nomre":"8.2"
+    },
+    {
+        "imgmovie":"/assest/image/nazdikbeman.jpg",
+        "overtitle":"سریال-2021",
+        "number":"81%",
+        "title":"نزدیک به من",
+        "nomre":"6.0"
+    },
+    {
+        "imgmovie":"/assest/image/28UP.jpg",
+        "overtitle":"سریال-1984",
+        "number":"70%",
+        "title":"28 به بالا",
+        "nomre":"8.2"
+    },
+    {
+        "imgmovie":"/assest/image/42UP.jpg",
+        "overtitle":"سریال-1998",
+        "number":"69%",
+        "title":"42 به بالا",
+        "nomre":"8.2"
+    },
+    {
+        "imgmovie":"/assest/image/56UP.jpg",
+        "overtitle":"سریال-2012",
+        "number":"60%",
+        "title":"56 سال به بالا",
+        "nomre":"8.0"
+    },
+    {
+        "imgmovie":"/assest/image/foropashi.jpg",
+        "overtitle":"سریال-2022",
+        "number":"72%",
+        "title":"فروپاشی کمپانی",
+        "nomre":"7.1"
+    },
+    {
+        "imgmovie":"/assest/image/mabad.jpg",
+        "overtitle":"سریال-2019",
+        "number":"83%",
+        "title":"معبد",
+        "nomre":"7.1"
+    },
+    {
+        "imgmovie":"/assest/image/1864.jpg",
+        "overtitle":"سریال-2014",
+        "number":"76%",
+        "title":"1864",
+        "nomre":"6.7"
+    },
+    {
+        "imgmovie":"/assest/image/nazdikbeman.jpg",
+        "overtitle":"سریال-2021",
+        "number":"89%",
+        "title":"نزدیک بمان",
+        "nomre":"7.0"
+    },
+    {
+        "imgmovie":"/assest/image/baghch.jpg",
+        "overtitle":"سریال-2021",
+        "number":"75%",
+        "title":"قاتلین باغچه",
+        "nomre":"7.1"
+    },
+    {
+        "imgmovie":"/assest/image/starod.jpg",
+        "overtitle":"سریال-2021",
+        "number":"95%",
+        "title":"قتل های استارود راک",
+        "nomre":"6.7"
+    }
+]

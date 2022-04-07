@@ -1,0 +1,65 @@
+[
+    {
+        "imgmovie":"/assest/image/movie-mehmonijpg.jpg",
+        "overtitle":"سریال-1400",
+        "number":"93%",
+        "title":"مهمونی",
+        "nomre":"7.8"
+    },
+    {
+        "imgmovie":"/assest/image/herfh.jpg",
+        "overtitle":"سریال-1400",
+        "number":"79%",
+        "title":"حرفه ای (ویژه ناشنوایان)",
+        "nomre":"5.6"
+    },
+    {
+        "imgmovie":"/assest/image/navar.jpg",
+        "overtitle":"سریال-1400",
+        "number":"78%",
+        "title":"نوار قصه",
+        "nomre":"6.6"
+    },
+    {
+        "imgmovie":"/assest/image/bolvar.jpg",
+        "overtitle":"سریال-1398",
+        "number":"83%",
+        "title":"روز بلوار",
+        "nomre":"5.4"
+    },
+    {
+        "imgmovie":"/assest/image/jazireh.jpg",
+        "overtitle":"سریال-1400",
+        "number":"77%",
+        "title":"جزیره شاد سن ایچ",
+        "nomre":"5.4"
+    },
+    {
+        "imgmovie":"/assest/image/nashenava.jpg",
+        "overtitle":"سریال-1400",
+        "number":"83%",
+        "title":"خسوف (ویژه ناشنوایان)",
+        "nomre":"5.5"
+    },
+    {
+        "imgmovie":"/assest/image/movikhosof.jpg",
+        "overtitle":"سریال-1400",
+        "number":"79%",
+        "title":"خسوف",
+        "nomre":"5.5"
+    },
+    {
+        "imgmovie":"/assest/image/beshno.jpg",
+        "overtitle":"سریال-1400",
+        "number":"80%",
+        "title":"حرفه ای",
+        "nomre":"5.6"
+    },
+    {
+        "imgmovie":"/assest/image/animation.jpg",
+        "overtitle":"سریال-1400",
+        "number":"67%",
+        "title":"انیمیشن های کوتاه اجنماعی",
+        "nomre":"8.7"
+    }
+]
